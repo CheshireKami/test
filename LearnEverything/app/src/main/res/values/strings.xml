@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LearnEverything</string>
+    <string name="notification">Notification</string>
+    <string name="sendNotififaction">Send Notification</string>
+</resources>
